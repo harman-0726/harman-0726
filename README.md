@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1>Hey there 👋</h1>
 
-<!--
-**harman-0726/harman-0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harmandeep Singh, a Computer Science Engineering student.
 
-Here are some ideas to get you started:
+I build things related to:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- Python
+- Java
+- SQL
+- Data Structures & Algorithms
+
+---
+
+### 🚀 What I Build
+- AI assistants
+- Chatbots
+- Automation tools
+- Learning-based projects
+
+---
+
+### ⚡ Fun Facts
+- I turn ideas into projects
+- I learn by building
+- Improving every day
