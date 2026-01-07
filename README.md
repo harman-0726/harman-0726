@@ -1,31 +1,15 @@
-<h1>Hey there 👋</h1>
+<b>Hey there 👋</b><br>
+I’m Harmandeep Singh, a Computer Science Engineering student.<br>
+I build things related to Artificial Intelligence, Machine Learning, and Data Science.<br><br>
 
-I'm Harmandeep Singh, a Computer Science Engineering student.
+If an idea comes to my mind, I try to turn it into a project.<br>
+I enjoy working with Python, Java, and SQL.<br>
+I solve Data Structures and Algorithms problems and build small systems like chatbots and automation tools.<br><br>
 
-I build things related to:
-- Artificial Intelligence
-- Machine Learning
-- Data Science
+<b>Tech</b><br>
+Python · Java · SQL · DSA · Machine Learning · NLP<br><br>
 
----
-
-### 🛠 Tech Stack
-- Python
-- Java
-- SQL
-- Data Structures & Algorithms
-
----
-
-### 🚀 What I Build
-- AI assistants
-- Chatbots
-- Automation tools
-- Learning-based projects
-
----
-
-### ⚡ Fun Facts
-- I turn ideas into projects
-- I learn by building
-- Improving every day
+<b>Fun Facts</b><br>
+• I learn by building<br>
+• I like clean and simple code<br>
+• Improving every day
